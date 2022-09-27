@@ -1,0 +1,5 @@
+naff>=1.0.0
+python-dotenv>=0.20.0
+orjson>=3.6.7
+aiohttp
+requests==2.25.1
